@@ -1,3 +1,8 @@
+html.touch.webkit,
+html.touch.webkit body {
+ font-size:22px;
+}
+
 html {
  font-size: 14px;
  -webkit-text-size-adjust: none;
